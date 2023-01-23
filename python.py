@@ -79,7 +79,7 @@ print ""
 
 def intro():
       print "------------------------"
-      print "Welcome to the Catatcombs"
+      print "Welcome to the Castle"
       print "  Be prepared to fight  "
       print "       Do not die       "
       print "------------------------"
